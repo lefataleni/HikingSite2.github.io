@@ -1,0 +1,26 @@
+html{
+    background-color: black; 
+    -webkit-text-fill-color: grey;
+}
+.home-site-navigation {
+    font-family: 'Epilogue', sans-serif;
+} 
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+}
+h6{
+    font-family: 'Josefin Sans', sans-serif;
+    width: 600;
+    border: 3px solid rgb(0, 0, 0);
+    width: 1320px;
+    height: 500px;
+    background-color: rgb(43, 43, 43);
+}
+.tandcs{
+    margin-top: 250px;
+    margin-left: 800px;
+}
